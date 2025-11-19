@@ -104,6 +104,8 @@ platforms:
     name: "华尔街见闻 最新"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
+  - id: "coolapk"
+    name: "酷安"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
