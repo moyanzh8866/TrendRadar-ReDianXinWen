@@ -12,6 +12,12 @@
 日本
 高市早苗
 
+俄乌战争
+普京
+泽连斯基
+俄罗斯
+乌克兰
+
 荷兰
 ASML
 芯片
@@ -23,8 +29,6 @@ ASML
 HarmonyOS
 
 苹果
-+手机
 iphone
-ipad
-mac
 ios
++手机
