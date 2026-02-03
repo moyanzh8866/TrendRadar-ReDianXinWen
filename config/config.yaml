@@ -32,7 +32,7 @@ app:
 platforms:
   enabled: true                         # 是否启用热榜平台抓取
   sources:
- - id: "toutiao"
+  - id: "toutiao"
     name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
